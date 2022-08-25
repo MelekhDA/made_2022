@@ -1,0 +1,7 @@
+path: datasets/train_val_test
+train: train/images
+val: val/images
+test:
+
+nc: 1
+names: [ 'square' ]
